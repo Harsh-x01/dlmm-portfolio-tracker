@@ -1,5 +1,10 @@
 # DLMM Portfolio Tracker
 
+![DLMM Portfolio Tracker Banner](.github/Banner.png)
+
+
+## Overview
+
 A React TypeScript application for tracking and managing DLMM (Dynamic Liquidity Market Maker) positions on Solana, powered by Saros Finance.
 
 ## Features
