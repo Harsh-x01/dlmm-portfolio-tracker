@@ -12,8 +12,7 @@
 ### 💻 View the Code
 **[GitHub Repository →](https://github.com/Harsh-x01/dlmm-portfolio-tracker)**
 
-### 🏆 Contest Information
-**[Saros DLMM SDK Contest →](https://earn.superteam.fun/listings/bounty/saros-dlmm-sdk-demo-contest/)**
+
 
 ---
 
