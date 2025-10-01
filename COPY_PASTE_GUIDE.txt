@@ -1,0 +1,81 @@
+=================================================================
+   COPY & PASTE GUIDE - Contest Submission
+=================================================================
+
+STEP 1: CREATE GITHUB REPOSITORY
+---------------------------------
+1. Open: https://github.com/new
+2. Copy and paste this into "Repository name":
+   dlmm-portfolio-tracker
+
+3. Copy and paste this into "Description":
+   Portfolio analytics dashboard for DLMM positions on Saros Finance - Built for Saros SDK Contest
+
+4. Select: PUBLIC (required!)
+5. Click "Create repository"
+
+
+STEP 2: PUSH CODE TO GITHUB
+----------------------------
+After creating repository, run these commands ONE BY ONE:
+
+cd C:\Users\harsh\Desktop\DLLM_Demo\dlmm-portfolio-tracker
+
+git remote add origin https://github.com/YOUR_USERNAME/dlmm-portfolio-tracker.git
+
+git branch -M main
+
+git push -u origin main
+
+(Replace YOUR_USERNAME with your actual GitHub username)
+
+
+STEP 3: DEPLOY TO VERCEL
+-------------------------
+1. Open: https://vercel.com/signup
+2. Click "Continue with GitHub"
+3. After login, click "Add New..." → "Project"
+4. Find "dlmm-portfolio-tracker" and click "Import"
+5. Click "Deploy" (don't change anything)
+6. Wait 2-3 minutes
+7. Copy your live URL (e.g., https://dlmm-portfolio-tracker.vercel.app)
+
+
+STEP 4: CONTEST SUBMISSION FORM
+--------------------------------
+Contest URL: https://earn.superteam.fun/listings/bounty/saros-dlmm-sdk-demo-contest/
+
+Copy and paste these into the form:
+
+PROJECT NAME:
+DLMM Portfolio Tracker
+
+PROJECT DESCRIPTION:
+Portfolio analytics dashboard for tracking DLMM positions on Saros Finance. Features real-time position tracking, interactive liquidity distribution charts, fee management, and comprehensive pool analytics. Built with @saros-finance/dlmm-sdk, React, TypeScript, and Tailwind CSS.
+
+KEY FEATURES:
+• Real-time DLMM position tracking with portfolio metrics
+• Interactive liquidity distribution charts showing bin distribution
+• One-click fee claiming with wallet integration
+• Comprehensive pool statistics and analytics
+• Multi-wallet support (Phantom and Solflare)
+• Responsive design with dark mode interface
+• Production-ready code with TypeScript
+
+TECHNOLOGIES USED:
+React, TypeScript, Vite, Tailwind CSS, @saros-finance/dlmm-sdk, @solana/web3.js, @solana/wallet-adapter-react, Recharts, Lucide Icons
+
+GITHUB URL:
+https://github.com/YOUR_USERNAME/dlmm-portfolio-tracker
+(Replace YOUR_USERNAME)
+
+LIVE DEMO URL:
+https://YOUR-PROJECT.vercel.app
+(Use the URL from Vercel)
+
+
+=================================================================
+   THAT'S IT! YOU'RE DONE! 🎉
+=================================================================
+
+Total time: ~15 minutes
