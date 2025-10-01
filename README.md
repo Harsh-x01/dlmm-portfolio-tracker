@@ -7,7 +7,7 @@
 **[Launch DLMM Portfolio Tracker →](https://dlmm-portfolio-tracker.vercel.app)**
 
 ### 📺 Watch the Demo
-**[YouTube Walkthrough (3 min) →](https://youtu.be/YOUR_VIDEO_ID)**
+**[YouTube Walkthrough  →](https://youtu.be/S6DMwyklJkQ)**
 
 ### 💻 View the Code
 **[GitHub Repository →](https://github.com/Harsh-x01/dlmm-portfolio-tracker)**
